@@ -1,45 +1,8 @@
 Microsoft Windows [Version 10.0.19045.3570]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh>cmd /k dir
- Volume in drive C has no label.
- Volume Serial Number is AC2F-ED77
-
- Directory of C:\Users\xuanh
-
-11/03/2023  04:41 PM    <DIR>          .
-11/03/2023  04:41 PM    <DIR>          ..
-10/30/2023  09:45 PM    <DIR>          .android
-08/21/2023  01:32 PM    <DIR>          .dotnet
-08/21/2023  02:26 PM                16 .emulator_console_auth_token
-08/21/2023  02:29 PM    <DIR>          .gradle
-08/21/2023  02:34 PM    <DIR>          .m2
-10/30/2023  09:58 PM    <DIR>          .nuget
-11/06/2023  11:41 AM    <DIR>          .ssh
-08/21/2023  01:34 PM    <DIR>          .templateengine
-10/25/2023  11:25 AM    <DIR>          .VirtualBox
-08/14/2023  08:34 AM    <DIR>          .vscode
-09/20/2023  11:15 PM    <DIR>          .zenmap
-10/12/2023  12:01 AM    <DIR>          3D Objects
-08/21/2023  02:25 PM    <DIR>          AndroidStudioProjects
-08/11/2023  10:19 AM    <DIR>          ansel
-10/12/2023  12:01 AM    <DIR>          Contacts
-11/07/2023  11:21 AM    <DIR>          Desktop
-11/03/2023  01:12 PM    <DIR>          Documents
-11/06/2023  01:58 PM    <DIR>          Downloads
-10/12/2023  12:01 AM    <DIR>          Favorites
-10/12/2023  12:01 AM    <DIR>          Links
-10/12/2023  12:01 AM    <DIR>          Music
-08/18/2023  02:29 AM        24,948,456 ngrok.exe
-08/11/2023  10:23 AM    <DIR>          OneDrive
-11/02/2023  03:16 PM    <DIR>          Pictures
-10/12/2023  12:01 AM    <DIR>          Saved Games
-10/12/2023  12:01 AM    <DIR>          Searches
-08/17/2023  01:57 PM    <DIR>          source
-11/03/2023  04:41 PM    <DIR>          Tracing
-10/12/2023  12:01 AM    <DIR>          Videos
-               2 File(s)     24,948,472 bytes
-              29 Dir(s)   1,875,046,400 bytes free
+C:\Users\xuanh>cmd /k whoami
+desktop-31uv19f\xuanh
 
 C:\Users\xuanh>
 C:\Users\xuanh>
