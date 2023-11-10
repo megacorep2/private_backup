@@ -1,7 +1,27 @@
 Microsoft Windows [Version 10.0.22621.2428]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k dir C:\\Users
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k dir C:\Users\thanh
+ Volume in drive C has no label.
+ Volume Serial Number is 986B-6454
+
+ Directory of C:\Users\thanh
+
+31/10/2023  05:10 CH    <DIR>          .
+03/09/2023  09:42 CH    <DIR>          ..
+18/09/2023  08:44 CH            44.004 battery-report.html
+03/09/2023  09:25 CH    <DIR>          Contacts
+08/09/2023  09:46 CH    <DIR>          Documents
+10/11/2023  09:17 SA    <DIR>          Downloads
+03/09/2023  09:25 CH    <DIR>          Favorites
+03/09/2023  09:25 CH    <DIR>          Links
+10/10/2023  03:42 CH    <DIR>          Music
+15/09/2023  02:06 CH    <DIR>          OneDrive
+03/09/2023  09:25 CH    <DIR>          Saved Games
+03/09/2023  10:11 CH    <DIR>          Searches
+08/09/2023  09:05 SA    <DIR>          Videos
+               1 File(s)         44.004 bytes
+              12 Dir(s)  176.527.056.896 bytes free
 
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
