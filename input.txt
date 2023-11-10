@@ -1,1 +1,0 @@
-type C:\Users\thanh\AppData\Local\Google\Chrome\User Data\Default\Network\test.txt
