@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.22621.2428]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k C :\\Users\thanh\Downloads
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k type C:\Users\thanh\AppData\Local\Google\Chrome\User Data\Default\Network\test.txt
 
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
