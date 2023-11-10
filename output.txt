@@ -1,47 +1,10 @@
 Microsoft Windows [Version 10.0.22621.2428]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\thanh\OneDrive\Máy tính\hoanx>cmd /k whoami
-thanhdat\thanh
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k dir C:\\users
 
-C:\Users\thanh\OneDrive\Máy tính\hoanx>ipconfig
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>dir C:\\users\public
 
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter Local Area Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : tendawifi.com
-   Link-local IPv6 Address . . . . . : fe80::99fe:feeb:3e8c:40ed%18
-   IPv4 Address. . . . . . . . . . . : 192.168.0.113
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.0.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-C:\Users\thanh\OneDrive\Máy tính\hoanx>
-C:\Users\thanh\OneDrive\Máy tính\hoanx>
-C:\Users\thanh\OneDrive\Máy tính\hoanx>
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
