@@ -1,9 +1,7 @@
 Microsoft Windows [Version 10.0.22621.2428]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k dir C:\\users
-
-C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>dir C:\\users\public
+C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>cmd /k dir C:\\Users
 
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
 C:\Users\thanh\Documents\Zalo Received Files\hoanx\hoanx>
