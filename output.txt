@@ -15,7 +15,7 @@ C:\Users\xuanh\Downloads\No_Scan\hoanx>cmd /k dir
 11/01/2023  04:09 AM         1,314,816 Octokit.dll
 11/01/2023  04:09 AM         2,451,923 Octokit.xml
                5 File(s)      3,796,624 bytes
-               2 Dir(s)   9,762,951,168 bytes free
+               2 Dir(s)   9,763,762,176 bytes free
 
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
