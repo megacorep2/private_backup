@@ -1,15 +1,8 @@
 Microsoft Windows [Version 10.0.19045.3693]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh\Downloads\No_Scan\hoanx>cmd /k net user
-
-User accounts for \\DESKTOP-31UV19F
-
--------------------------------------------------------------------------------
-Administrator            DefaultAccount           Guest                    
-WDAGUtilityAccount       xuanh                    
-The command completed successfully.
-
+C:\Users\xuanh\Downloads\No_Scan\hoanx>cmd /k whoami
+desktop-31uv19f\xuanh
 
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
