@@ -1,21 +1,15 @@
 Microsoft Windows [Version 10.0.19045.3693]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh\Downloads\No_Scan\hoanx>cmd /k dir
- Volume in drive C has no label.
- Volume Serial Number is AC2F-ED77
+C:\Users\xuanh\Downloads\No_Scan\hoanx>cmd /k net user
 
- Directory of C:\Users\xuanh\Downloads\No_Scan\hoanx
+User accounts for \\DESKTOP-31UV19F
 
-11/09/2023  09:24 PM    <DIR>          .
-11/09/2023  09:24 PM    <DIR>          ..
-11/09/2023  08:48 PM             7,680 ConsoleApp8.exe
-11/09/2023  08:47 PM               189 ConsoleApp8.exe.config
-11/09/2023  08:48 PM            22,016 ConsoleApp8.pdb
-11/01/2023  04:09 AM         1,314,816 Octokit.dll
-11/01/2023  04:09 AM         2,451,923 Octokit.xml
-               5 File(s)      3,796,624 bytes
-               2 Dir(s)   9,763,762,176 bytes free
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+WDAGUtilityAccount       xuanh                    
+The command completed successfully.
+
 
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
 C:\Users\xuanh\Downloads\No_Scan\hoanx>
