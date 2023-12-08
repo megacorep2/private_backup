@@ -1,1 +1,1 @@
-ipconfig
+net user
