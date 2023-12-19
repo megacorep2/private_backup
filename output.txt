@@ -1,8 +1,37 @@
 Microsoft Windows [Version 10.0.22621.2715]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh>cmd /k whoami
-hoanguyen\xuanh
+C:\Users\xuanh>cmd /k dir
+ Volume in drive C has no label.
+ Volume Serial Number is 262F-C6EB
+
+ Directory of C:\Users\xuanh
+
+12/20/2023  12:07 AM    <DIR>          .
+10/07/2023  11:06 PM    <DIR>          ..
+10/17/2023  11:48 PM    <DIR>          .dotnet
+12/20/2023  12:07 AM    <DIR>          .nuget
+11/18/2023  09:43 AM    <DIR>          .ssh
+10/18/2023  12:01 AM    <DIR>          .templateengine
+10/29/2023  07:31 PM    <DIR>          .VirtualBox
+10/09/2023  10:31 PM    <DIR>          .vscode
+11/24/2023  10:18 AM    <DIR>          .zenmap
+10/07/2023  10:22 AM    <DIR>          3D Objects
+10/07/2023  03:49 PM    <DIR>          Contacts
+11/10/2023  12:14 AM    <DIR>          Documents
+11/19/2023  09:10 PM    <DIR>          Downloads
+10/07/2023  03:49 PM    <DIR>          Favorites
+11/04/2023  02:41 PM           148,261 Get-TGSCipher.ps1
+10/07/2023  03:49 PM    <DIR>          Links
+10/07/2023  03:49 PM    <DIR>          Music
+10/22/2023  08:14 AM    <DIR>          OneDrive
+11/18/2023  11:33 AM    <DIR>          OpenVPN
+10/07/2023  03:49 PM    <DIR>          Saved Games
+10/07/2023  03:49 PM    <DIR>          Searches
+10/18/2023  12:02 AM    <DIR>          source
+11/20/2023  08:01 AM    <DIR>          Videos
+               1 File(s)        148,261 bytes
+              22 Dir(s)  99,355,430,912 bytes free
 
 C:\Users\xuanh>
 C:\Users\xuanh>
