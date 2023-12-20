@@ -1,16 +1,16 @@
-Microsoft Windows [Version 10.0.22621.2861]
+Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh>cmd /k net user 
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>cmd /k net user
 
-User accounts for \\HOANGUYEN
+User accounts for \\DESKTOP-PM3CT7O
 
 -------------------------------------------------------------------------------
 Administrator            DefaultAccount           Guest                    
-WDAGUtilityAccount       xuanh                    
+iPMAC                    public                   WDAGUtilityAccount       
 The command completed successfully.
 
 
-C:\Users\xuanh>
-C:\Users\xuanh>
-C:\Users\xuanh>
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
