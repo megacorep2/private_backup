@@ -1,15 +1,42 @@
 Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>cmd /k net user
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>cmd /k ipconfig
 
-User accounts for \\DESKTOP-PM3CT7O
+Windows IP Configuration
 
--------------------------------------------------------------------------------
-Administrator            DefaultAccount           Guest                    
-iPMAC                    public                   WDAGUtilityAccount       
-The command completed successfully.
 
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1081:ba64:e79c:6966%10
+   IPv4 Address. . . . . . . . . . . : 192.168.0.156
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::763f:a630:8898:f7d1%11
+   IPv4 Address. . . . . . . . . . . : 192.168.88.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1cf3:5b61:2ee4:c9c1%5
+   IPv4 Address. . . . . . . . . . . : 10.1.1.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::a18e:d41f:cda1:e61f%14
+   IPv4 Address. . . . . . . . . . . : 192.168.88.109
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.88.1
 
 C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
 C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
